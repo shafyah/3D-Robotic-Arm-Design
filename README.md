@@ -16,7 +16,7 @@ This project presents a 3D model of a multi-jointed robotic arm designed in Tink
 
 ## Project Contents
 
-- (3D-Robotic-Arm-Design.stl) 3D model file in STL format.
+- [STL file](3D-Robotic-Arm-Design.stl)3D model file in STL format.
 
 ##  Design Preview
 
